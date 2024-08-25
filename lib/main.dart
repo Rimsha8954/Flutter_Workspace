@@ -8,11 +8,11 @@ void main() async{
   Platform.isAndroid?
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyCHMpp5e8dv1yi7ij-FT6KHt8Op4x63RFs',
-        appId: '1:212332963858:android:e54769dee3d9304d5490cb',
-        messagingSenderId: '212332963858',
-        projectId: 'veggie-vault',
-        storageBucket: 'veggie-vault.appspot.com',
+        apiKey: 'add your own api key',
+        appId: '#',
+        messagingSenderId: '# #',
+        projectId: '# # #',
+        storageBucket: '# # #',
       )
   )
   : await Firebase.initializeApp();
