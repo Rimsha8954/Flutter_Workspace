@@ -1,21 +1,28 @@
-# # Dev-Connect
-Dev-Connect is a portfolio app designed to showcase my skills and projects as a Flutter developer. With a sleek neon theme and a user-friendly interface, this app provides a comprehensive view of my professional journey and expertise.
+# Dev-Connect
+**Dev-Connect** is a portfolio app designed to showcase my skills and projects as a Flutter developer. With a sleek neon theme and a user-friendly interface, this app provides a comprehensive view of my professional journey and expertise.
 
-# Features
-Login and Signup Pages: Secure user authentication for personalized access.
-Home Screen:
-A visually striking top section featuring my profile picture, name, profession, and location.
-A detailed bottom section covering my education, experience, and areas of expertise.
-Projects Screen: 
-Displays various projects with detailed UI designs and descriptions.
-Custom Drawer: 
-Facilitates easy navigation between different sections including the user profile, home screen, projects screen, and logout option.
-About Me
-Popup: Provides an in-depth overview of my background and vision when navigating to the home screen after login.
-# Technologies used
-Flutter: For building the app’s UI and handling its logic.
-Firebase: For real-time data management and user authentication.
-GetX: For efficient state management and responsive design.
+## Features
+
+- **Login and Signup Pages**: Secure user authentication for personalized access.
+
+- **Home Screen**: 
+  - A visually striking top section featuring my profile picture, name, profession, and location.
+  - A detailed bottom section covering my education, experience, and areas of expertise.
+
+- **Projects Screen**: Displays various projects with detailed UI designs and descriptions.
+
+- **Custom Drawer**: Facilitates easy navigation between different sections including the user profile, home screen, projects screen, and logout option.
+
+- **"About Me" Popup**: Provides an in-depth overview of my background and vision when navigating to the home screen after login.
+
+## Technologies Used
+
+- **Flutter**: For building the app’s UI and handling its logic.
+
+- **Firebase**: For real-time data management and user authentication.
+
+- **GetX**: For efficient state management and responsive design.
+
 # Installation
 To run Dev-Connect locally, follow these steps:
 
