@@ -3,16 +3,16 @@ Dev-Connect is a portfolio app designed to showcase my skills and projects as a 
 
 # # Features
 Login and Signup Pages: Secure user authentication for personalized access.
-# Home Screen:
+Home Screen:
 A visually striking top section featuring my profile picture, name, profession, and location.
 A detailed bottom section covering my education, experience, and areas of expertise.
-# Projects Screen: 
+Projects Screen: 
 Displays various projects with detailed UI designs and descriptions.
-# Custom Drawer: 
+Custom Drawer: 
 Facilitates easy navigation between different sections including the user profile, home screen, projects screen, and logout option.
-# About Me
+About Me
 Popup: Provides an in-depth overview of my background and vision when navigating to the home screen after login.
-# # Technologies Used
+# Technologies Used
 Flutter: For building the app’s UI and handling its logic.
 Firebase: For real-time data management and user authentication.
 GetX: For efficient state management and responsive design.
@@ -21,15 +21,16 @@ To run Dev-Connect locally, follow these steps:
 
 Clone the Repository:
 
-# bash
+bash
 Copy code
+
 git clone https://github.com/yourusername/dev-connect.git
 cd dev-connect
 # Install Dependencies:
 
 Ensure you have Flutter installed. Then, install the required dependencies:
 
-# bash
+bash
 Copy code
 flutter pub get
 # Configure Firebase:
@@ -37,10 +38,11 @@ flutter pub get
 Set up Firebase for your project by following the Firebase Setup Guide.
 Download the google-services.json file for Android and place it in the android/app directory.
 For iOS, download the GoogleService-Info.plist file and add it to the ios/Runner directory.
-# Run the App:
+Run the App:
 
-# bash
+bash
 Copy code
+
 flutter run
 # # Usage
 Login/Signup: Use the login or signup pages to access the app.
