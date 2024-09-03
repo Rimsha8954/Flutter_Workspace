@@ -50,13 +50,43 @@ Run the App:
 
 flutter run
 ```
-# Usage
-Login/Signup: Use the login or signup pages to access the app.
-Home Screen: View your profile and professional details.
-Projects Screen: Browse through various projects with their descriptions.
-Custom Drawer: Navigate between sections using the drawer menu.
-Contributing
-Feel free to contribute to the project by submitting issues, suggestions, or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
+## Usage
+
+To get started with **Dev-Connect**, follow these steps:
+
+1. **Login/Signup:**
+
+   Use the login or signup pages to access the app. Enter your credentials to either log in to your existing account or create a new one.
+
+2. **Home Screen:**
+
+   - **Profile Overview:** The home screen displays your profile information, including your profile picture, name, profession, and location.
+   - **Professional Details:** Scroll down to view detailed information about your education, experience, and areas of expertise.
+
+3. **Projects Screen:**
+
+   - Navigate to the Projects screen to view various projects I’ve worked on.
+   - Each project includes detailed UI designs and descriptions, showcasing different development challenges and solutions.
+
+4. **Custom Drawer:**
+
+   - Use the custom drawer to navigate between different sections of the app:
+     - **Profile:** Access your profile information.
+     - **Home Screen:** Return to the home screen.
+     - **Projects Screen:** View the list of projects.
+     - **Logout:** Sign out of the app.
+
+5. **"About Me" Popup:**
+
+   - When navigating to the home screen after login, an "About Me" popup will appear.
+   - This popup provides an in-depth overview of my background, vision, and professional goals. It covers half of the screen and can be dismissed to return to the main content.
+
+### Tips
+
+- **Explore Features:** Take time to explore all the features and sections of the app to get a comprehensive view of my work and capabilities.
+- **Feedback:** Feel free to provide feedback or suggestions on the app. Your input is valuable for continuous improvement.
+
+
 
 
 # # Contact
