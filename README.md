@@ -1,16 +1,53 @@
-# dev_connect
+##Dev-Connect
+Dev-Connect is a portfolio app designed to showcase my skills and projects as a Flutter developer. With a sleek neon theme and a user-friendly interface, this app provides a comprehensive view of my professional journey and expertise.
 
-A new Flutter project.
+##Features
+Login and Signup Pages: Secure user authentication for personalized access.
+#Home Screen:
+A visually striking top section featuring my profile picture, name, profession, and location.
+A detailed bottom section covering my education, experience, and areas of expertise.
+Projects Screen: Displays various projects with detailed UI designs and descriptions.
+Custom Drawer: Facilitates easy navigation between different sections including the user profile, home screen, projects screen, and logout option.
+"About Me" Popup: Provides an in-depth overview of my background and vision when navigating to the home screen after login.
+Technologies Used
+Flutter: For building the app’s UI and handling its logic.
+Firebase: For real-time data management and user authentication.
+GetX: For efficient state management and responsive design.
+Installation
+To run Dev-Connect locally, follow these steps:
 
-## Getting Started
+Clone the Repository:
 
-This project is a starting point for a Flutter application.
+bash
+Copy code
+git clone https://github.com/yourusername/dev-connect.git
+cd dev-connect
+Install Dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+Ensure you have Flutter installed. Then, install the required dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+Copy code
+flutter pub get
+Configure Firebase:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Set up Firebase for your project by following the Firebase Setup Guide.
+Download the google-services.json file for Android and place it in the android/app directory.
+For iOS, download the GoogleService-Info.plist file and add it to the ios/Runner directory.
+Run the App:
+
+bash
+Copy code
+flutter run
+Usage
+Login/Signup: Use the login or signup pages to access the app.
+Home Screen: View your profile and professional details.
+Projects Screen: Browse through various projects with their descriptions.
+Custom Drawer: Navigate between sections using the drawer menu.
+Contributing
+Feel free to contribute to the project by submitting issues, suggestions, or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
+
+
+Contact
+For any questions or inquiries, please reach out to me at rimsha.07089@gmail.com.
+
