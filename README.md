@@ -1,4 +1,4 @@
-![Alt text]([https://github.com/yourusername/your-repo/raw/main/path/to/image.png](https://github.com/Rimsha8954/Flutter_Workspace/blob/master/Untitled%20design.png))
+![Dev Connect]([https://github.com/yourusername/your-repo/raw/main/path/to/image.png](https://github.com/Rimsha8954/Flutter_Workspace/blob/master/Untitled%20design.png))
 
 # Dev-Connect
 **Dev-Connect** is a portfolio app designed to showcase my skills and projects as a Flutter developer. With a sleek neon theme and a user-friendly interface, this app provides a comprehensive view of my professional journey and expertise.
